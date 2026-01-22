@@ -164,3 +164,6 @@ book
 
 *.pkl
 **/*.pkl
+.venv/
+.envrc
+.python-version
