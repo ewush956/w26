@@ -263,7 +263,7 @@ $$\mathbf{J_f} = \begin{bmatrix} \nabla^T f_1 \\ \nabla^T f_2 \\ \vdots \\ \nabl
 * A continuous **probability density function** gives the probability of being in some tiny interval $\delta x$ given by $p(x) \delta x$
 * Example: the **uniform distribution**, $p(\mathrm{x}) = \dfrac{1}{b-a}$ for $a \le x \le b$
 * $p(\mathrm{x} = x_i) = 0$ for any specific value $x_i$
-* Need to integrate to get a concrete value, e.g. $p(\mathrm{x} \le a) = \displaystyle\int_a^b p(x) dx$
+* Need to integrate to get a concrete value, e.g. $p(\mathrm{x} \le a) = \displaystyle\int_{-\infty}^a p(x) dx$
 * $\displaystyle\int_{-\infty}^\infty p(x) dx = 1$ and $\displaystyle\int_a^b p(x) dx \ge 0$ for any valid distribution
 
 ---
