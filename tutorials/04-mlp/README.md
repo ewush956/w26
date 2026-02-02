@@ -1,5 +1,5 @@
 # Backpropagation with a toy MLP
-Before we move on to a full-featured toolbox, I wanted to provide you with something a bit simpler. I've written some (questionable) code in [mlp-regressor.py](mlp-regressor.py) to try to implement a multi-layer perceptron. I've also provided a starter notebook after throwing you to the wolves last week - you can download your copy [here](04-mlp.ipynb), or from [GitHub](https://github.com/MRU-COMP4630/w26/tree/main/tutorials/04-mlp/04-mlp.ipynb).
+Before we move on to a full-featured toolbox, I wanted to provide you with something a bit simpler. I've written some (questionable) code in [mlp_regressor.py](mlp_regressor.py) to try to implement a multi-layer perceptron. I've also provided a starter notebook after throwing you to the wolves last week - you can download your copy [here](04-mlp.ipynb), or from [GitHub](https://github.com/MRU-COMP4630/w26/tree/main/tutorials/04-mlp/04-mlp.ipynb).
 
 ## Step 1: Load and preprocess data
 We'll use a well-known and fairly clean dataset to try to predict [wine quality](https://archive.ics.uci.edu/dataset/186/wine+quality). You'll still need to encode (or ignore) the one categorical feature `color`, then split and normalize the inputs. You'll also need to `pip install ucimlrepo` to get the data-fetching module.
