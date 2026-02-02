@@ -1,4 +1,8 @@
 # Gradient Descent for Polynomial Regression
+
+> [!NOTE]
+> Solution now available! You can view it rendered on GitHub [here](https://github.com/MRU-COMP4630/w26/tree/main/tutorials/03-gradient-descent/03_gradient_descent_diy.ipynb).
+
 There's some fake data in the file [data.csv](data.csv), with a single feature `x` and a true value `y`. Your task is to:
 1. Load the data and look at it
 2. Split it into training, validation, and test sets
