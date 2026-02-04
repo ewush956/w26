@@ -23,3 +23,9 @@
 # Assignments
 - [Assignment 1](assignments/assignment1/README.md)
 - [Journal Club](assignments/journal_club/README.md)
+
+- [Final Project](final_project/README.md)
+    - [1. Proposal](final_project/1-proposal.md)
+    - [2. Checkpoint 1]()
+    - [3. Checkpoint 2]()
+    - [4. Final Report]()

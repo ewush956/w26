@@ -1,18 +1,18 @@
 # Final Project: Predict something with some data
 
-|     | Deliverable               | Due date  | Weight (of project) |
-| --- | ------------------------- | --------- | ------------------- |
-| 1   | [Proposal](1-proposal.md) | Feb 27    | 15%                 |
-| 2   | Checkpoint 1              | March 27  | 20%                 |
-| 2   | Checkpoint 2              | April 13  | 20%                 |
-| 4   | Final Report              | April 24* | 45%                 |
+|     | Deliverable                 | Due date                                        | Weight (of project) |
+| --- | --------------------------- | ----------------------------------------------- | ------------------- |
+| 1   | [Proposal](1-proposal.html) | Feb 27<br> Pitch Presentation in lab on March 2 | 15%                 |
+| 2   | Checkpoint 1                | March 27                                        | 20%                 |
+| 2   | Checkpoint 2                | April 13                                        | 20%                 |
+| 4   | Final Report                | April 24<br> Presentations on April 22 or 23*   | 45%                 |
 
-> *This is the end of the exam period, but we will have presentations on the 22nd or 23rd pending registrar's schedule. Most of your project should be complete for the presentation, but you can put finishing touches on your report in the days afterwards.
+> *Pending registrar's schedule. Most of your project should be complete for the presentation, but you can put finishing touches on your report in the days afterwards.
 
 You may work in teams of 2 or 3. 
 
 ## Overview
-The goal of this assignment is to showcase the skills you've learned in this course by applying them to a new dataset and task. You are free to choose anything you like, but **do not pick a "hello-world" style dataset**. I'd rather you take a risk and have it not be successful than recreate yet another Titanic survival prediction model.
+The goal of the final project is to showcase the skills you've learned in this course by applying them to a new dataset and task. You are free to choose anything you like, but **do not pick a "hello-world" style dataset**. I'd rather you take a risk and have it not be successful than recreate yet another Titanic survival prediction model.
 
 Overall, throughout this project you will:
 

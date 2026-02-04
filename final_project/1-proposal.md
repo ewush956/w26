@@ -18,11 +18,14 @@ Scoping a project is very challenging, and generally we want to do more than can
 ## References
 Include a link to your proposed dataset and cite at least one technical paper describing the approach you plan to use.
 
+## Pitch Presentation
+Prepare a very short presentation (1-2 slides, 3-4 minutes) to "pitch" your project during the lab on Monday, March 4. You can highlight whatever part is the most exciting to you, the main goal is to share with the class and learn who is working on similar projects. 
+
 ## Marking Scheme
 Using usual 4 point scale, I will be assessing the following equally-weighted categories:
 - Description of task and dataset
 - Thoughtful risk assessment and contingency plan
 - Appropriate references and tentative approach
-- Overall coherence and clarity
+- Pitch presentation
 
 For a total of 16 points.
