@@ -9,6 +9,7 @@
 - [4. Backpropagation](lectures/04-backpropagation/04-backprop.md)
 - [5. Classification](lectures/05-classification/05-classification-loss-metrics.md)
 - [6. Modern Neural Networks](lectures/06-modern-nns/06-modern-nns.md)
+- [7. Convolutional Neural Networks](lectures/07-convolution/07-convolution.md)
 
 ---
 
