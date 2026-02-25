@@ -9,6 +9,7 @@
 - [4. Backpropagation](lectures/04-backpropagation/04-backprop.md)
 - [5. Classification](lectures/05-classification/05-classification-loss-metrics.md)
 - [6. Modern Neural Networks](lectures/06-modern-nns/06-modern-nns.md)
+- [7. Convolutional Neural Networks](lectures/07-convolution/07-convolution.md)
 
 ---
 
@@ -17,9 +18,17 @@
 - [2. Linear algebra and NumPy](tutorials/02-numpy/README.md)
 - [3. Gradient Descent](tutorials/03-gradient-descent/README.md)
 - [4. Backpropagation](tutorials/04-mlp/README.md)
+- [5. Intro to PyTorch](tutorials/05-pytorch/README.md)
 
 --- 
 
 # Assignments
 - [Assignment 1](assignments/assignment1/README.md)
+- [Assignment 2](assignments/assignment2/README.md)
 - [Journal Club](assignments/journal_club/README.md)
+
+- [Final Project](final_project/README.md)
+    - [1. Proposal](final_project/1-proposal.md)
+    - [2. Checkpoint 1]()
+    - [3. Checkpoint 2]()
+    - [4. Final Report]()
