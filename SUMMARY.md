@@ -29,6 +29,6 @@
 
 - [Final Project](final_project/README.md)
     - [1. Proposal](final_project/1-proposal.md)
-    - [2. Checkpoint 1]()
+    - [2. Checkpoint 1](final_project/2-checkpoint.md)
     - [3. Checkpoint 2]()
     - [4. Final Report]()
