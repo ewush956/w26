@@ -105,7 +105,7 @@ $$\frac{1}{9}\begin{bmatrix}1 & 1 & 1\\1 & 1 & 1\\1 & 1 & 1\end{bmatrix}$$
 ## A side tangent on frequency representation
 - Any signal can be represented as a weighted summation of sinusoids
 - For a discrete signal $x[n]$, you can think of this as:
-  $$x[n] = \sum_{k=0}^{N-1}a_k\cos\left(\frac{2\pi k n}{N}\right) + b_k\left(\frac{2\pi k n}{N}\right)$$
+  $$x[n] = \sum_{k=0}^{N-1}\left[a_k\cos\left(\frac{2\pi k n}{N}\right) + b_k\sin\left(\frac{2\pi k n}{N}\right)\right]$$
 - Or, using Euler's formula $e^{j\theta} = \cos\theta + j\sin\theta$:
   $$x[n] = \sum_{k=0}^{N-1}c_k e^{j\frac{2\pi k n}{N}}$$
   where the complex coefficients $c_k = a_k + jb_k$
