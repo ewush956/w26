@@ -229,7 +229,7 @@ $$\frac{1}{9}\begin{bmatrix}1 & 1 & 1\\1 & 1 & 1\\1 & 1 & 1\end{bmatrix}$$
 
 ![h:500 center](../figures/07-alexnet.png)
 
-<footer>Source: <a href="https://en.wikipedia.org/wiki/AlexNet">Wikipedia</a></footer>
+<footer>Sources: <a href="https://en.wikipedia.org/wiki/AlexNet">Wikipedi</a>, <a href="https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html">AlexNet Paper</a>, <a href="http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf">LeNet Paper</a></footer>
 
 ---
 
@@ -250,7 +250,7 @@ $$\frac{1}{9}\begin{bmatrix}1 & 1 & 1\\1 & 1 & 1\\1 & 1 & 1\end{bmatrix}$$
 </div>
 
 
-<footer>Source: <a href="https://en.wikipedia.org/wiki/Inception_(deep_learning_architecture)">Wikipedia</a></footer>
+<footer>Sources: <a href="https://en.wikipedia.org/wiki/Inception_(deep_learning_architecture)">Wikipedia</a>, <a href="https://arxiv.org/abs/1409.4842">GoogLeNet Paper</a></footer>
 
 ---
 
@@ -266,6 +266,8 @@ $$\frac{1}{9}\begin{bmatrix}1 & 1 & 1\\1 & 1 & 1\\1 & 1 & 1\end{bmatrix}$$
 
 </div>
 
+<footer>Source: <a href="https://arxiv.org/abs/1409.1556">VGG Paper</a></footer>
+
 ---
 
 ## ResNet (2015)
@@ -278,13 +280,31 @@ $$\frac{1}{9}\begin{bmatrix}1 & 1 & 1\\1 & 1 & 1\\1 & 1 & 1\end{bmatrix}$$
 - If a layer outputs 0, it doesn't kill the gradient
 - Even deeper, e.g. ResNet-152
 
+<footer>Source: <a href="https://arxiv.org/abs/1512.03385">ResNet Paper</a></footer>
+
 ---
 
-## References
-- [AlexNet paper](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
-- [Inception paper](https://arxiv.org/abs/1409.4842)
-- [VGG paper](https://arxiv.org/abs/1409.1556)
-- [ResNet paper](https://arxiv.org/abs/1512.03385)
+## Transfer Learning
+<!-- _class: code_reminder -->
+
+> "If I have seen further, it is by standing on the shoulder of giants" 
+> -- Isaac Newton
+
+- **Transfer learning** copy pastes a trained network into a new task
+- You can select which layers to keep, which to freeze, and which to re-train
+- You can also drop new layers on top of the old ones
+- Most of the time you want to freeze the early layers and add a new "head"
+
+---
+
+## Data Augmentation
+- Garbage in, garbage out
+- We can artificially increase diversity with data augmentation:
+  - Random crops, flips, rotations
+  - Rescaling/resizing
+  - Changing colours
+
+- [AutoAugment](https://docs.pytorch.org/vision/main/generated/torchvision.transforms.v2.AutoAugment.html?highlight=v2+autoaugment#torchvision.transforms.v2.AutoAugment) does a bunch of this automatically
 
 ---
 
