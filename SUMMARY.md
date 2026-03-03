@@ -10,6 +10,7 @@
 - [5. Classification](lectures/05-classification/05-classification-loss-metrics.md)
 - [6. Modern Neural Networks](lectures/06-modern-nns/06-modern-nns.md)
 - [7. Convolutional Neural Networks](lectures/07-convolution/07-convolution.md)
+- [8. Recursive Neural Networks](lectures/08-rnns/08-rnn.md)
 
 ---
 
@@ -19,6 +20,7 @@
 - [3. Gradient Descent](tutorials/03-gradient-descent/README.md)
 - [4. Backpropagation](tutorials/04-mlp/README.md)
 - [5. Intro to PyTorch](tutorials/05-pytorch/README.md)
+- [6. Project Pitch Presentations](#)
 
 --- 
 
@@ -29,6 +31,6 @@
 
 - [Final Project](final_project/README.md)
     - [1. Proposal](final_project/1-proposal.md)
-    - [2. Checkpoint 1]()
+    - [2. Checkpoint 1](final_project/2-checkpoint.md)
     - [3. Checkpoint 2]()
     - [4. Final Report]()

@@ -3,7 +3,7 @@
 |     | Deliverable                 | Due date                                        | Weight (of project) |
 | --- | --------------------------- | ----------------------------------------------- | ------------------- |
 | 1   | [Proposal](1-proposal.html) | Feb 27<br> Pitch Presentation in lab on March 2 | 15%                 |
-| 2   | Checkpoint 1                | March 27                                        | 20%                 |
+| 2   | [Checkpoint 1](2-checkpoint.html)                | March 27                                        | 20%                 |
 | 2   | Checkpoint 2                | April 13                                        | 20%                 |
 | 4   | Final Report                | April 24<br> Presentations on April 22 or 23*   | 45%                 |
 
